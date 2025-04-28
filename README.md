@@ -13,6 +13,7 @@ In this analysis, we explore the behavior of mobile device users based on variou
 
 🖼️ Dashboard Overview  
 ▪️User Behavior Dashboard Analysis.png
+▪️Interactive Dashboard https://lookerstudio.google.com/reporting/93110a75-549a-4377-91f0-783e493c6c11
 
 🔍 Dashboard Features
 ▪️Total of Data Usage by Device Model & Age : The total data usage by device model and age group doesn’t show significant differences.The highest data usage was among users aged 30–40 years, reaching 65,681 MB/day using the Xiaomi Mi 11.Meanwhile, the lowest data usage was among users aged 50–60 years, at 28,661 MB/day using the OnePlus 9.
