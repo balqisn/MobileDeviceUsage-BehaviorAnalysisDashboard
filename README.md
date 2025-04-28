@@ -12,7 +12,7 @@ In this analysis, we explore the behavior of mobile device users based on variou
 ▪️Data Usage :651K
 
 🖼️ Dashboard Overview  
-▪️user_behavior_dashboard.png
+▪️User Behavior Dashboard Analysis.png
 
 🔍 Dashboard Features
 ▪️Total of Data Usage by Device Model & Age : The total data usage by device model and age group doesn’t show significant differences.The highest data usage was among users aged 30–40 years, reaching 65,681 MB/day using the Xiaomi Mi 11.Meanwhile, the lowest data usage was among users aged 50–60 years, at 28,661 MB/day using the OnePlus 9.
