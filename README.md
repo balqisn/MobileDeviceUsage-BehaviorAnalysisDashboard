@@ -31,7 +31,7 @@ In this analysis, we explore the behavior of mobile device users based on variou
 ▪️For devices with high screen time and low battery drain, launch user engagement campaigns, leveraging these well-performing devices that support prolonged usage.
 
 🛠 Tools Used 
-▪️Power BI
+▪️Looker Studio
 
 📂 File in Repositori :
 ▪️user_behavior_dataset.csv 
